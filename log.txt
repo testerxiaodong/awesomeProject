@@ -1,0 +1,10 @@
+2022/10/13 01:45:22 这是一条测试日志
+2022/10/13 01:45:22 这是一条格式化的测试日志，时间：2022-10-13 01:45:22.703312 +0800 CST m=+0.000761501
+2022/10/13 01:45:22 这是一条fatal级别日志
+2022/10/13 01:51:24.839212 /Users/cengdong/GolandProjects/awesomeProject/day05/log/main.go:31: 这是一条测试日志
+2022/10/13 01:51:24.839994 /Users/cengdong/GolandProjects/awesomeProject/day05/log/main.go:32: 这是一条格式化的测试日志，时间：2022-10-13 01:51:24.839841 +0800 CST m=+0.000758376
+2022/10/13 01:51:24.840010 /Users/cengdong/GolandProjects/awesomeProject/day05/log/main.go:33: 这是一条fatal级别日志
+2022/10/13 01:51:35.207584 /Users/cengdong/GolandProjects/awesomeProject/day05/log/main.go:31: 这是一条测试日志
+2022/10/13 01:51:35.208407 /Users/cengdong/GolandProjects/awesomeProject/day05/log/main.go:32: 这是一条格式化的测试日志，时间：2022-10-13 01:51:35.208175 +0800 CST m=+0.000715209
+2022/10/13 01:51:54.138841 /Users/cengdong/GolandProjects/awesomeProject/day05/log/main.go:31: 这是一条测试日志
+2022/10/13 01:51:54.139629 /Users/cengdong/GolandProjects/awesomeProject/day05/log/main.go:32: 这是一条格式化的测试日志，时间：2022-10-13 01:51:54.139415 +0800 CST m=+0.001007251

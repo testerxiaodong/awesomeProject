@@ -20,10 +20,15 @@ func main() {
 	fmt.Println(now.Second())
 	// 时间戳
 	fmt.Println(now.Unix())
+	nowTimeStamp := now.Unix()
 	// 时间戳转时间
 	// time.Unix()
+	transTime := time.Unix(nowTimeStamp, 0)
+	fmt.Println(transTime)
 	// 时间间隔
 	// time.Duration
+	nextTime := now.Add(time.Hour * 2)
+	fmt.Println(nextTime)
 	// 定时器：本质是一个通道
 	//time.Tick(time.Second)
 }
